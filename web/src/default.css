@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Roboto;
+}
+
+body {
+  background: linear-gradient(135deg, #1e1e2f, #3b224c, #72264e);
+}
+
+h1,
+h2,
+p {
+  color: white;
+}
